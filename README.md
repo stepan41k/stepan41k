@@ -4,7 +4,7 @@
 </div>
 
 <div id="stat" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stepan41k&theme=github_dark"
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stepan41k&theme=github_dark"/>
 </div>
 
 <div id="socials" align="center">
