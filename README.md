@@ -10,6 +10,9 @@
 </div>
 
 <div id="skills" align="center">
+  <h3>Stack</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
+  title="postgres" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-  title="postgres" width="40" height="40"/>;
+  title="postgres" width="40" height="40"/>
 </div>
