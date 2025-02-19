@@ -8,6 +8,6 @@
     <img src="https://img.shields.io/nadge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/stepan41k">
-    <img src="https://img.shields.io/nadge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Telegram"/>
   </a>
 </div>
