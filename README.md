@@ -7,4 +7,7 @@
   <a href="https://novgorod.hh.ru/applicant/resumes/view?resume=7f3b5ac0ff0dc6ce600039ed1f784b5458644d">
     <img src="https://img.shields.io/nadge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://t.me/stepan41k">
+    <img src="https://img.shields.io/nadge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </div>
