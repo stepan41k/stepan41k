@@ -1,2 +1,3 @@
-# My skillset
-![skills копия](https://github.com/user-attachments/assets/a073cd6b-5baf-4302-a17a-d41d47c0e4c2)
+## Skill set
+![1](https://github.com/user-attachments/assets/d06f3041-18b5-4d39-a1f0-228454cb01dc)
+
