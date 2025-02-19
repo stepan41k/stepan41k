@@ -7,6 +7,9 @@
   <a href="https://t.me/stepan41k">
     <img src="https://img.shields.io/badge/Telegram-00B2FF?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
+   <a href="stepan41kr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 <div id="skills" align="center">
