@@ -3,6 +3,10 @@
   <h3>Backend Developer from Voronezh</h3>
 </div>
 
+<div id="stat" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stepan41k&theme=github_dark"
+</div>
+
 <div id="socials" align="center">
   <a href="https://t.me/stepan41k">
     <img src="https://img.shields.io/badge/Telegram-00B2FF?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
