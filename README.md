@@ -16,6 +16,8 @@
   <h3>My Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
   title="golang" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg"
+  title="grpc" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
   title="bash" width="40" height="40">
   
@@ -27,8 +29,8 @@
   title="redis" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
   title="mongo" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg"
-  title="grpc" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
+  title="kafka" width="40" height="40">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
   title="docker" width="40" height="40">
@@ -38,6 +40,4 @@
   title="prometheus" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
   title="kibana" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
-  title="kafka" width="40" height="40">
 </div>
