@@ -15,31 +15,31 @@
 <div id="skills" align="center">
   <h3>Main Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
-  title="golang" width="50" height="50">
+  title="golang" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg"
-  title="grpc" width="50" height="50">
+  title="grpc" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
-  title="bash" width="50" height="50">
+  title="bash" width="40" height="40">
 
   <h3>Databases and Message Brokers Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-  title="postgres" width="50" height="50">
+  title="postgres" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
-  title="sqlite" width="50" height="50">
+  title="sqlite" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
-  title="redis" width="50" height="50">
+  title="redis" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-  title="mongo" width="50" height="50">
+  title="mongo" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
-  title="kafka" width="50" height="50">
+  title="kafka" width="40" height="40">
 
   <h3>Architecture and Monitoring</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-  title="docker" width="50" height="50">
+  title="docker" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
-  title="kubernetes" width="50" height="50">
+  title="kubernetes" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg"
-  title="prometheus" width="50" height="50">
+  title="prometheus" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
-  title="grafana" width="50" height="50">
+  title="grafana" width="40" height="40">
 </div>
