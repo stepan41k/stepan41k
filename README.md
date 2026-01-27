@@ -13,11 +13,11 @@
 </div>
 
 <div id="skills" align="center">
-  <h3>Main Stack</h3>
+  <h3>Languages</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
   title="golang" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg"
-  title="grpc" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+  title="cpp" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
   title="bash" width="40" height="40">
 
