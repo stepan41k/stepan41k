@@ -1,3 +1,3 @@
 <div id="header"">
-  <h3>👋Hi there I'm Stepan</h3>
+  <h3>👋Hi there</h3>
 </div>
